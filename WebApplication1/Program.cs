@@ -28,5 +28,7 @@ internal class Program
            .WithStaticAssets();
 
         app.Run();
+
+        //change
     }
 }
